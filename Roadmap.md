@@ -1,7 +1,7 @@
 # 🛣️ Roadmap — Project 1: Trading Platform
 
 ## Huidige activiteit
-- ** DB opzetten** in Postgres
+- **DB opzetten** in Postgres
   
 ## Fase 1 — Fundament & Datalaag
 - **[MacroMarketData database stabiliseren](ca://s?q=MacroMarketData_database_stabiliseren)**
