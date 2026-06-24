@@ -1,5 +1,8 @@
 # 🛣️ Roadmap — Project 1: Trading Platform
 
+## Huidige activiteit
+- ** DB opzetten** in Postgres
+  
 ## Fase 1 — Fundament & Datalaag
 - **[MacroMarketData database stabiliseren](ca://s?q=MacroMarketData_database_stabiliseren)**
 - **[Ingestion pipelines afronden](ca://s?q=Ingestion_pipelines_afronden)**
